@@ -14,25 +14,25 @@
               "title": "Uterine Fibroid (Leiomyoma)",
               "shortDescription": "Benign smooth muscle tumor of the myometrium.",
               "summary": {
-                [cite_start]"Definition": "A benign tumor of the smooth muscle fibers of the myometrium[cite: 278].",
-                [cite_start]"Incidence": "Occurs in 25% of women in the child-bearing period[cite: 279].",
-                "Etiology": "Associated with increased Estrogen (E2). [cite_start]Risk factors include Genetic predisposition, Race, Nulligravida, and Anovulation[cite: 280].",
-                "Clinical Picture": "Can be asymptomatic. The most common symptom is Heavy Menstrual Bleeding (HMB / Menorrhagia). [cite_start]Other symptoms can include pain, a palpable mass, and infertility[cite: 300, 302].",
-                [cite_start]"Diagnosis": "Ultrasound (Transvaginal or Transabdominal) is the gold standard for diagnosis[cite: 313]. [cite_start]Hysteroscopy or Laparoscopy can also be used[cite: 313].",
-                [cite_start]"Treatment": "Asymptomatic fibroids generally require no treatment unless they are large (>14 wks size) or causing infertility[cite: 316]. [cite_start]Medical options target bleeding (e.g., Tranexamic acid) or hormonal control (e.g., GnRH agonists)[cite: 317]. [cite_start]Surgical options are definitive and include Myomectomy (removal of the fibroid) or Hysterectomy (removal of the uterus)[cite: 320, 321]."
+                "Definition": "A benign tumor of the smooth muscle fibers of the myometrium.",
+                "Incidence": "Occurs in 25% of women in the child-bearing period.",
+                "Etiology": "Associated with increased Estrogen (E2). Risk factors include Genetic predisposition, Race, Nulligravida, and Anovulation.",
+                "Clinical Picture": "Can be asymptomatic. The most common symptom is Heavy Menstrual Bleeding (HMB / Menorrhagia). Other symptoms can include pain, a palpable mass, and infertility.",
+                "Diagnosis": "Ultrasound (Transvaginal or Transabdominal) is the gold standard for diagnosis. Hysteroscopy or Laparoscopy can also be used.",
+                "Treatment": "Asymptomatic fibroids generally require no treatment unless they are large (>14 wks size) or causing infertility. Medical options target bleeding (e.g., Tranexamic acid) or hormonal control (e.g., GnRH agonists). Surgical options are definitive and include Myomectomy (removal of the fibroid) or Hysterectomy (removal of the uterus)."
               },
               "quiz": [
                 {
                   "stem": "What is considered the gold standard for diagnosing a uterine fibroid?",
                   "options": [ "MRI", "Hysteroscopy", "Ultrasound (US)", "Laparoscopy" ],
                   "answerIndex": 2,
-                  [cite_start]"explanation": "Ultrasound (TVS/TAS) is cited as the gold standard diagnostic tool for fibroids[cite: 313]."
+                  "explanation": "Ultrasound (TVS/TAS) is cited as the gold standard diagnostic tool for fibroids."
                 },
                 {
                   "stem": "Which of the following is the definitive surgical treatment for fibroids?",
                   "options": [ "Medical therapy with GnRH agonists", "Uterine Artery Embolization", "Myomectomy or Hysterectomy", "Antifibrinolytic agents" ],
                   "answerIndex": 2,
-                  [cite_start]"explanation": "Surgical options like myomectomy or hysterectomy are listed as the definitive treatment for fibroids[cite: 319]."
+                  "explanation": "Surgical options like myomectomy or hysterectomy are listed as the definitive treatment for fibroids."
                 }
               ]
             },
@@ -41,25 +41,25 @@
               "title": "Endometriosis",
               "shortDescription": "Presence of endometrial tissue outside the uterine cavity.",
               "summary": {
-                [cite_start]"Definition": "The presence of endometrial glands and stroma outside the uterine cavity[cite: 331].",
-                [cite_start]"Incidence": "Affects 10% of all women, 20% with chronic pelvic pain, and 30% with infertility[cite: 333].",
-                [cite_start]"Etiology": "Theories include retrograde menstruation (Sampson), lymphatic theory (Halban), and coelomic metaplasia (Meyer's)[cite: 343, 344, 345].",
-                [cite_start]"Clinical Picture": "The main symptoms are PAIN (dysmenorrhea, deep dyspareunia, dyschezia) and Infertility[cite: 351, 352]. [cite_start]Signs can include nodules in the pouch of Douglas and adnexal masses known as endometriomas (chocolate cysts)[cite: 368, 369].",
-                [cite_start]"Diagnosis": "Laparoscopy is the gold standard for diagnosis[cite: 375]. [cite_start]Ultrasound may show endometriomas with a characteristic 'Ground glass appearance'[cite: 375]. [cite_start]CA125 is used for follow-up, not diagnosis[cite: 375].",
-                [cite_start]"Treatment": "Hormonal treatments like continuous COCPs or gestagens aim to atrophy the endometrial glands[cite: 377]. [cite_start]Surgical options include laparoscopic cystectomy for endometriomas > 4cm, or definitive surgery like TAH & BSO (Total Abdominal Hysterectomy & Bilateral Salpingo-oophorectomy)[cite: 377, 378]."
+                "Definition": "The presence of endometrial glands and stroma outside the uterine cavity.",
+                "Incidence": "Affects 10% of all women, 20% with chronic pelvic pain, and 30% with infertility.",
+                "Etiology": "Theories include retrograde menstruation (Sampson), lymphatic theory (Halban), and coelomic metaplasia (Meyer's).",
+                "Clinical Picture": "The main symptoms are PAIN (dysmenorrhea, deep dyspareunia, dyschezia) and Infertility. Signs can include nodules in the pouch of Douglas and adnexal masses known as endometriomas (chocolate cysts).",
+                "Diagnosis": "Laparoscopy is the gold standard for diagnosis. Ultrasound may show endometriomas with a characteristic 'Ground glass appearance'. CA125 is used for follow-up, not diagnosis.",
+                "Treatment": "Hormonal treatments like continuous COCPs or gestagens aim to atrophy the endometrial glands. Surgical options include laparoscopic cystectomy for endometriomas > 4cm, or definitive surgery like TAH & BSO (Total Abdominal Hysterectomy & Bilateral Salpingo-oophorectomy)."
               },
               "quiz": [
                 {
                   "stem": "Which diagnostic method is considered the gold standard for endometriosis?",
                   "options": [ "Ultrasound showing ground glass appearance", "Elevated CA125 levels", "Laparoscopy", "Patient history of painful periods" ],
                   "answerIndex": 2,
-                  [cite_start]"explanation": "Laparoscopy is explicitly mentioned as the gold standard for diagnosing endometriosis[cite: 375]."
+                  "explanation": "Laparoscopy is explicitly mentioned as the gold standard for diagnosing endometriosis."
                 },
                 {
                   "stem": "An ovarian endometrioma is also commonly known as a:",
                   "options": [ "Functional cyst", "Dermoid cyst", "Follicular cyst", "Chocolate cyst" ],
                   "answerIndex": 3,
-                  [cite_start]"explanation": "The PDF refers to a large endometrioma cyst as a 'chocolate cyst'[cite: 350]."
+                  "explanation": "The PDF refers to a large endometrioma cyst as a 'chocolate cyst'."
                 }
               ]
             }
@@ -81,24 +81,24 @@
               "title": "Ectopic Pregnancy",
               "shortDescription": "Pregnancy outside the normal uterine cavity lining.",
               "summary": {
-                [cite_start]"Definition": "A pregnancy that occurs outside the normal lining of the uterine cavity, with over 95% being tubal[cite: 1128, 1129].",
-                [cite_start]"Etiology": "Often related to abnormalities in the fallopian tube, such as inflammation or adhesions[cite: 1131, 1132, 1133].",
-                [cite_start]"Clinical Picture": "The classic symptoms are PAIN and mild vaginal bleeding[cite: 1139]. [cite_start]Patients may present with syncopal attacks or shock[cite: 1140]. [cite_start]On examination, cervical motion tenderness ('jumping sign') is a key finding[cite: 1143].",
-                [cite_start]"Diagnosis": "Diagnosis is supported by ultrasound showing an empty uterus when the ß-HCG level is above the discriminatory zone[cite: 1146, 1154, 1155]. [cite_start]The ß-HCG level also rises by less than 60% after 48 hours, unlike a normal pregnancy[cite: 1147]. [cite_start]Laparoscopy can be diagnostic and therapeutic[cite: 1148].",
-                [cite_start]"Treatment": "Medical treatment with Methotrexate (MTX) is an option for stable patients with an ectopic mass < 3 cm, no fetal pulsations, and ß-HCG < 6000[cite: 1151, 1152, 1153, 1156, 1157]. [cite_start]Surgical treatment, either via laparoscopy (salpingostomy or salpingectomy) for stable patients or open laparotomy (salpingectomy) for unstable patients, is also common[cite: 1161, 1164]."
+                "Definition": "A pregnancy that occurs outside the normal lining of the uterine cavity, with over 95% being tubal.",
+                "Etiology": "Often related to abnormalities in the fallopian tube, such as inflammation or adhesions.",
+                "Clinical Picture": "The classic symptoms are PAIN and mild vaginal bleeding. Patients may present with syncopal attacks or shock. On examination, cervical motion tenderness ('jumping sign') is a key finding.",
+                "Diagnosis": "Diagnosis is supported by ultrasound showing an empty uterus when the ß-HCG level is above the discriminatory zone. The ß-HCG level also rises by less than 60% after 48 hours, unlike a normal pregnancy. Laparoscopy can be diagnostic and therapeutic.",
+                "Treatment": "Medical treatment with Methotrexate (MTX) is an option for stable patients with an ectopic mass < 3 cm, no fetal pulsations, and ß-HCG < 6000. Surgical treatment, either via laparoscopy (salpingostomy or salpingectomy) for stable patients or open laparotomy (salpingectomy) for unstable patients, is also common."
               },
               "quiz": [
                 {
                   "stem": "Which of the following findings is a classic sign of ectopic pregnancy on pelvic examination?",
                   "options": [ "A softened cervix (Goodell's sign)", "A large-for-dates uterus", "Cervical motion tenderness (Jumping sign)", "A closed cervical os" ],
                   "answerIndex": 2,
-                  [cite_start]"explanation": "Cervical motion tenderness, also known as the 'jumping sign' or 'Frog sign', is a classic clinical finding in ectopic pregnancy[cite: 1143]."
+                  "explanation": "Cervical motion tenderness, also known as the 'jumping sign' or 'Frog sign', is a classic clinical finding in ectopic pregnancy."
                 },
                 {
                   "stem": "Medical management with Methotrexate is appropriate for an ectopic pregnancy only if:",
                   "options": [ "The patient is vitally unstable", "The ß-HCG level is greater than 10,000", "There are fetal pulsations seen on ultrasound", "The ectopic mass is less than 3 cm and the patient is stable" ],
                   "answerIndex": 3,
-                  [cite_start]"explanation": "The criteria for using Methotrexate include the patient being vitally stable and the ectopic mass being less than 3 cm, among other factors[cite: 1152, 1153]."
+                  "explanation": "The criteria for using Methotrexate include the patient being vitally stable and the ectopic mass being less than 3 cm, among other factors."
                 }
               ]
             }
@@ -114,24 +114,24 @@
               "title": "Preeclampsia (PIH)",
               "shortDescription": "Hypertension and proteinuria developing after 24 weeks.",
               "summary": {
-                [cite_start]"Definition": "Preeclampsia is defined as hypertension (BP ≥ 140/90) with proteinuria (>300mg) appearing after 24 weeks of gestation[cite: 2099, 2103]. [cite_start]Eclampsia is preeclampsia plus seizures[cite: 2143].",
-                [cite_start]"Etiology": "The pathophysiology involves a failure of trophoblastic invasion in the spiral arterioles, leading to reduced placental perfusion and the release of toxic mediators that cause systemic endothelial damage[cite: 2111, 2112, 2113, 2114].",
-                [cite_start]"Clinical Picture": "It is often a 'disease of Signs', primarily high BP and proteinuria[cite: 2118]. [cite_start]Symptoms only appear in severe cases and include headache, vomiting, blurring of vision (brain/retinal affection), and epigastric pain (liver affection)[cite: 2119, 2120, 2124, 2125, 2126].",
-                [cite_start]"Complications": "Maternal complications are severe, including eclampsia, HELLP syndrome (Hemolysis, Elevated Liver enzymes, Low Platelets), and organ damage[cite: 2129]. [cite_start]Fetal complications include IUGR, oligohydramnios, and IUFD[cite: 2130, 2135, 2136].",
-                [cite_start]"Treatment": "The only definitive treatment is termination of pregnancy[cite: 2170]. [cite_start]For severe preeclampsia and eclampsia, Magnesium Sulfate (MgSO4) is used to control and prevent convulsions[cite: 2151, 2164, 2167]. [cite_start]Antihypertensive drugs like Labetalol are used to control severe hypertension[cite: 2156]."
+                "Definition": "Preeclampsia is defined as hypertension (BP ≥ 140/90) with proteinuria (>300mg) appearing after 24 weeks of gestation. Eclampsia is preeclampsia plus seizures.",
+                "Etiology": "The pathophysiology involves a failure of trophoblastic invasion in the spiral arterioles, leading to reduced placental perfusion and the release of toxic mediators that cause systemic endothelial damage.",
+                "Clinical Picture": "It is often a 'disease of Signs', primarily high BP and proteinuria. Symptoms only appear in severe cases and include headache, vomiting, blurring of vision (brain/retinal affection), and epigastric pain (liver affection).",
+                "Complications": "Maternal complications are severe, including eclampsia, HELLP syndrome (Hemolysis, Elevated Liver enzymes, Low Platelets), and organ damage. Fetal complications include IUGR, oligohydramnios, and IUFD.",
+                "Treatment": "The only definitive treatment is termination of pregnancy. For severe preeclampsia and eclampsia, Magnesium Sulfate (MgSO4) is used to control and prevent convulsions. Antihypertensive drugs like Labetalol are used to control severe hypertension."
               },
               "quiz": [
                 {
                   "stem": "What is the primary purpose of administering Magnesium Sulfate (MgSO4) in a patient with severe preeclampsia?",
                   "options": [ "To lower the blood pressure", "To prevent convulsions (eclampsia)", "To mature the fetal lungs", "To reverse proteinuria" ],
                   "answerIndex": 1,
-                  [cite_start]"explanation": "MgSO4 is used to control and prevent convulsions in severe preeclampsia and eclampsia[cite: 2151, 2164, 2167]."
+                  "explanation": "MgSO4 is used to control and prevent convulsions in severe preeclampsia and eclampsia."
                 },
                 {
                   "stem": "Which of the following is considered the only definitive cure for preeclampsia?",
                   "options": [ "Antihypertensive therapy", "Administration of MgSO4", "Strict bed rest", "Termination of pregnancy (delivery)" ],
                   "answerIndex": 3,
-                  [cite_start]"explanation": "The document lists 'Termination of pregnancy' as a key part of the treatment for severe preeclampsia and eclampsia, as the disease process originates from the placenta[cite: 2151, 2165, 2170]."
+                  "explanation": "The document lists 'Termination of pregnancy' as a key part of the treatment for severe preeclampsia and eclampsia, as the disease process originates from the placenta."
                 }
               ]
             },
@@ -140,24 +140,24 @@
               "title": "Normal Labor",
               "shortDescription": "The physiological process of childbirth.",
               "summary": {
-                [cite_start]"Definition": "Passage of a single, living, cephalic, vertex, term fetus through the birth canal without interference or complications, lasting between 4-24 hours[cite: 1488].",
-                "Stages of Labor": "Labor is divided into three stages. The 1st stage involves cervical effacement and dilatation up to 10 cm. The 2nd stage is the delivery of the fetus. [cite_start]The 3rd stage is the delivery of the placenta[cite: 1490].",
-                "First Stage Management": "Management involves monitoring progress using a partogram. Key actions include monitoring uterine contractions, fetal heart rate, and cervical changes. [cite_start]Augmentation with AROM or oxytocin may be needed if progress is slow[cite: 1490].",
-                "Second Stage Management": "This stage involves fetal descent and expulsion. The mechanism includes engagement, flexion, internal rotation, extension, restitution, and external rotation. The mother is instructed to bear down with contractions. [cite_start]An episiotomy may be performed if indicated[cite: 1490].",
-                "Third Stage Management": "Active management is key to minimizing bleeding. This involves using ecbolics (like oxytocin), waiting for signs of placental separation (gush of blood, cord elongation), and then delivering the placenta using the Brandt-Andrews maneuver. [cite_start]The placenta and birth canal are then explored for completeness and tears[cite: 1490]."
+                "Definition": "Passage of a single, living, cephalic, vertex, term fetus through the birth canal without interference or complications, lasting between 4-24 hours.",
+                "Stages of Labor": "Labor is divided into three stages. The 1st stage involves cervical effacement and dilatation up to 10 cm. The 2nd stage is the delivery of the fetus. The 3rd stage is the delivery of the placenta.",
+                "First Stage Management": "Management involves monitoring progress using a partogram. Key actions include monitoring uterine contractions, fetal heart rate, and cervical changes. Augmentation with AROM or oxytocin may be needed if progress is slow.",
+                "Second Stage Management": "This stage involves fetal descent and expulsion. The mechanism includes engagement, flexion, internal rotation, extension, restitution, and external rotation. The mother is instructed to bear down with contractions. An episiotomy may be performed if indicated.",
+                "Third Stage Management": "Active management is key to minimizing bleeding. This involves using ecbolics (like oxytocin), waiting for signs of placental separation (gush of blood, cord elongation), and then delivering the placenta using the Brandt-Andrews maneuver. The placenta and birth canal are then explored for completeness and tears."
               },
               "quiz": [
                 {
                   "stem": "What is the primary goal of the active management of the third stage of labor?",
                   "options": [ "To speed up fetal delivery", "To minimize bleeding (PPHge)", "To ensure the mother is comfortable", "To check the baby's APGAR score" ],
                   "answerIndex": 1,
-                  [cite_start]"explanation": "The text states that the aim of active management in the 3rd stage is 'To minimize bleeding'[cite: 1490]."
+                  "explanation": "The text states that the aim of active management in the 3rd stage is 'To minimize bleeding'."
                 },
                 {
                   "stem": "A graphical record used to monitor the progress of labor, including cervical dilatation against time, is called a:",
                   "options": [ "Cardiotocograph (CTG)", "Leopold Maneuver Chart", "Partogram", "Biophysical Profile (BPP)" ],
                   "answerIndex": 2,
-                  [cite_start]"explanation": "The partogram is mentioned as the tool for following up on the progress of labor[cite: 1490]."
+                  "explanation": "The partogram is mentioned as the tool for following up on the progress of labor."
                 }
               ]
             }
