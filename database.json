@@ -166,4 +166,39 @@
       ]
     }
   }
+},
+{
+  "id": "amenorrhea",
+  "title": "Amenorrhea",
+  "shortDescription": "The absence of menstruation, which can be primary or secondary.",
+  "summary": {
+    "Definition": "Amenorrhea is the absence of menstrual periods. It can be Primary (failure to start menstruation) or Secondary (cessation of periods after they have begun).",
+    "Primary Amenorrhea": "This is diagnosed if there are no menses by age 15 with normal growth and secondary sexual characteristics. Common causes include Turner Syndrome (in absence of secondary sexual characters) and Mullerian Agenesis (MRKH) (in presence of secondary sexual characters).",
+    "Secondary Amenorrhea": "The most common cause of secondary amenorrhea is Pregnancy. Other major causes include hypothalamic issues (stress, drugs), pituitary problems like Sheehan syndrome (after postpartum hemorrhage) or prolactinoma, ovarian issues like PCO or premature ovarian insufficiency, and uterine problems like Asherman syndrome (after curettage).",
+    "Diagnostic Approach": "The approach starts with a thorough history and examination. Key investigations include a pregnancy test, hormonal profile (FSH/LH, Prolactin), and ultrasound. The goal is to determine the underlying etiology to guide treatment."
+  },
+  "quiz": [
+    {
+      "stem": "What is the most common cause of secondary amenorrhea that must be excluded first?",
+      "options": [
+        "Sheehan syndrome",
+        "Pregnancy",
+        "PCO",
+        "Asherman syndrome"
+      ],
+      "answerIndex": 1,
+      "explanation": "According to the notes, PREGNANCY is a primary cause of secondary amenorrhea that should always be considered."
+    },
+    {
+      "stem": "A patient develops amenorrhea after a severe postpartum hemorrhage. Which pituitary condition is the most likely diagnosis?",
+      "options": [
+        "Prolactinoma",
+        "Empty sella syndrome",
+        "Sheehan syndrome",
+        "Turner syndrome"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sheehan syndrome is explicitly mentioned as a cause of amenorrhea that occurs after a postpartum hemorrhage (PPHge)."
+    }
+  ]
 }
